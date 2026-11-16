@@ -1,5 +1,6 @@
 {
-  "version": "3.6.0",
-  "status": "preparing",
-  "download_url": null
+  "version": "3.6.1",
+  "download_url": "https://github.com/hiromasa7025-glitch/rental-car-updates/releases/download/v3.6.1/rental_update_v3_6_1_test.zip",
+  "sha256": "173a4fbf4167bbbaa0ca7f55c2fff9710e49fc985adc4d8f855831b3f4419f91",
+  "signature": "fnOn338dXGEXgd2DMG1PcNKcnpZBF1HA8TUiNezRZbUlK0Dt7l0KNQlUyAIysUc1gUcZLSQlQrvWJQauzd+sDQ=="
 }
